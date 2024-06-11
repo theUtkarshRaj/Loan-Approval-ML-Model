@@ -39,7 +39,7 @@ def Loan_Approval(input_data):
     if prediction ==0:
       return "Sorry , Loan not Approved"
     else:
-      return "Congratulation Loan Approved~"
+      return "Congratulation Loan Approved"
 
 def main():
     # Giving a title
